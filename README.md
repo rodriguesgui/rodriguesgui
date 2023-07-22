@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Guilherme</h1>
-<h3 align="center">Passionate about Data Analysis and seeking more and more knowledge</h3>
-
+<h3 align="center">
+Welcome to my data analysis portfolio. Here you will find projects with Machine Learning, Python, Power BI and PostgreSQL</h3>
+<h2 align="center"> </h2>
 - 🌱 I’m currently learning **Python for Data Analysis, DataBase and Data Visualization**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rodriguesgui](https://github.com/rodriguesgui)
