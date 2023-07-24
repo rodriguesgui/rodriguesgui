@@ -6,6 +6,8 @@ Welcome to my data analysis portfolio. Here you will find projects with Machine 
 
 ![sony-discontinues-ps4-pro-and-all-but-one-model-of-ps4-in-ja_rp79](https://github.com/rodriguesgui/GuilermeQuadros-portfolio/assets/99698257/4163e38b-dee4-44fe-af2e-2fe3507f2f04)
 
+- Para acessar o trabalho completo, clique [aqui](https://github.com/rodriguesgui/GuilermeQuadros-portfolio/blob/main/prj_Mercado_Games.ipynb)
+
 
 
 - 🌱 I’m currently learning **Python for Data Analysis, DataBase and Data Visualization**
