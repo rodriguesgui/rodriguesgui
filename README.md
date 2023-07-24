@@ -2,7 +2,7 @@
 <h3 align="center">
 Welcome to my data analysis portfolio. Here you will find projects with Machine Learning, Python, Power BI and PostgreSQL</h3>
 <h3 align="center"> Below my projects for Data Analysis </h3>
-<h2 align="center"> </h2>
+<h2 align="center"> PS4 Games Market Analysis </h2>
 - 🌱 I’m currently learning **Python for Data Analysis, DataBase and Data Visualization**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rodriguesgui](https://github.com/rodriguesgui)
