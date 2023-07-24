@@ -6,13 +6,13 @@ Welcome to my data analysis portfolio. Here you will find projects with Machine 
 
 ![sony-discontinues-ps4-pro-and-all-but-one-model-of-ps4-in-ja_rp79](https://github.com/rodriguesgui/GuilermeQuadros-portfolio/assets/99698257/4163e38b-dee4-44fe-af2e-2fe3507f2f04)
 
--To access the complete work, click [here](https://github.com/rodriguesgui/GuilermeQuadros-portfolio/blob/main/prj_Mercado_Games.ipynb)
+To access the complete work, click [here](https://github.com/rodriguesgui/GuilermeQuadros-portfolio/blob/main/prj_Mercado_Games.ipynb)
 
-data analysis work on the gaming market related to the PS4 console.
+Data analysis work on the gaming market related to the PS4 console.
 
 Python libraries were used for data analysis, treatment and visualization.
 
-dataset taken from Kaggle, click [here](https://www.kaggle.com/datasets/sidtwr/videogames-sales-dataset?select=PS4_GamesSales.csv)
+Dataset taken from Kaggle, click [here](https://www.kaggle.com/datasets/sidtwr/videogames-sales-dataset?select=PS4_GamesSales.csv)
 
 
 
