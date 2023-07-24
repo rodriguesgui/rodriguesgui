@@ -13,7 +13,7 @@ Data analysis work on the gaming market related to the PS4 console.
 Python libraries were used for data analysis, treatment and visualization.
 
 Dataset taken from Kaggle, click [here](https://www.kaggle.com/datasets/sidtwr/videogames-sales-dataset?select=PS4_GamesSales.csv)
-
+<br> </br>
 
 
 - 🌱 I’m currently learning **Python for Data Analysis, DataBase and Data Visualization**
