@@ -11,7 +11,7 @@ Welcome to my data analysis portfolio. Here you will find projects with Machine 
 data analysis work on the gaming market related to the PS4 console.</h5>
 <h5 align="left"> 
 Python libraries were used for data analysis, treatment and visualization.</h5>
-<h5 align="left"> dataset taken from Kaggle, click [here](https://www.kaggle.com/datasets/sidtwr/videogames-sales-dataset) to access</h5>
+ dataset taken from Kaggle, click [here](https://www.kaggle.com/datasets/sidtwr/videogames-sales-dataset?select=PS4_GamesSales.csv) to access
 
 
 
