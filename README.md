@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Guilherme</h1>
 <h3 align="center">
 Welcome to my data analysis portfolio. Here you will find projects with Machine Learning, Python, Power BI and PostgreSQL</h3>
-<h3 align="center"> Below my projects for Data Analysis </h3
+<h3 align="center"> Below my projects for Data Analysis </h3>
 
 
                                                           
