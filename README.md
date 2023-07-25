@@ -40,6 +40,19 @@ Dataset taken from Google drive, click [here](https://drive.google.com/file/d/1h
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 - 🌱 I’m currently learning **Python for Data Analysis, DataBase and Data Visualization**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rodriguesgui](https://github.com/rodriguesgui)
