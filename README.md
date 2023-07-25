@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Guilherme</h1>
 <h3 align="center">
 Welcome to my data analysis portfolio. Here you will find projects with Machine Learning, Python, Power BI and PostgreSQL</h3>
-<h3 align="center"> Below my projects for Data Analysis </h3>
+<h3 align="center"> Below my projects for Data Analysis </h3
+
+
+                                                          
 <h4 align="left"> PS4 Games Market Analysis </h4>
 
 ![sony-discontinues-ps4-pro-and-all-but-one-model-of-ps4-in-ja_rp79](https://github.com/rodriguesgui/GuilermeQuadros-portfolio/assets/99698257/4163e38b-dee4-44fe-af2e-2fe3507f2f04)
@@ -16,9 +19,9 @@ Dataset taken from Kaggle, click [here](https://www.kaggle.com/datasets/sidtwr/v
 
 
 
+<h4 align="left"> HR Deshboard </h4>
 
-
-
+![Captura de tela 2023-07-24 081713](https://github.com/rodriguesgui/GuilermeQuadros-portfolio/assets/99698257/4ecf0628-bd21-4f06-8973-13b6668106d7)
 
 
 
