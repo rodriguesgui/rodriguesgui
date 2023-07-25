@@ -19,7 +19,7 @@ Dataset taken from Kaggle, click [here](https://www.kaggle.com/datasets/sidtwr/v
 
 
 
-<h3 align="left"> HR Deshboard </h3>
+<h2 align="left"> HR Deshboard </h2>
 
 ![Captura de tela 2023-07-24 081713](https://github.com/rodriguesgui/GuilermeQuadros-portfolio/assets/99698257/4ecf0628-bd21-4f06-8973-13b6668106d7)
 
