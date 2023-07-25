@@ -19,9 +19,22 @@ Dataset taken from Kaggle, click [here](https://www.kaggle.com/datasets/sidtwr/v
 
 
 
-<h3 align="left"> HR Deshboard </h3>
+<h3 align="left"> HR Dashboard </h3>
 
 ![Captura de tela 2023-07-24 081713](https://github.com/rodriguesgui/GuilermeQuadros-portfolio/assets/99698257/4ecf0628-bd21-4f06-8973-13b6668106d7)
+
+To access the complete work, click [here](https://app.powerbi.com/view?r=eyJrIjoiMDU5NTQ3MTMtNTcyYS00M2M1LWI0YmMtZDg3ZTAwMjk3YjE0IiwidCI6IjIwZGQyMjg5LWI5NDQtNDZjMi05NmRhLTU4NDhjMzUxOTlmYSJ9&pageName=ReportSection)
+
+HR dashboard made for viewing data from company employees
+
+Work done with cleaning, treatment in Power BI using DAX language for querie
+
+Dataset taken from Google drive, click [here](https://drive.google.com/file/d/1h4bvZlHJUFAYJ5CbleAmLr6muAX1Q7rm/view)
+
+
+
+
+
 
 
 
