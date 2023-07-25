@@ -5,8 +5,8 @@ Welcome to my data analysis portfolio. Here you will find projects with Machine 
 
 
                                                           
-<h3 align="left"> PS4 Games Market Analysis </h3>
-<h3 align="center"> Below my projects for Data Analysis </h3
+<h2 align="left"> PS4 Games Market Analysis </h2>
+
 ![sony-discontinues-ps4-pro-and-all-but-one-model-of-ps4-in-ja_rp79](https://github.com/rodriguesgui/GuilermeQuadros-portfolio/assets/99698257/4163e38b-dee4-44fe-af2e-2fe3507f2f04)
 
 To access the complete work, click [here](https://github.com/rodriguesgui/GuilermeQuadros-portfolio/blob/main/prj_Mercado_Games.ipynb)
