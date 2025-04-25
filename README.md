@@ -14,14 +14,14 @@
 ![Airbnb](https://github.com/rodriguesgui/GuilermeQuadros-portfolio/assets/99698257/8b43a73a-b630-48e5-9cd3-225c5c1b2a3d)
 
 📌 Projeto de Ciência de Dados com modelagem preditiva para prever preços de aluguéis no Airbnb.  
-🔗 [Notebook no GitHub](https://github.com/rodriguesgui/GuilermeQuadros-portfolio/blob/main/prj_Precos_Airbnb.ipynb)  
+🔗 [Notebook no GitHub](https://github.com/rodriguesgui/airbnb-pricing-rio-)  
 📂 [Dataset no Google Drive](https://drive.google.com/drive/folders/1pzUiazh12EwBc7Lu5L0o-4wX4g9V5ybU?usp=drive_link)
 
 ---
 
 ### 🤖 Chatbot com Python
 
-![Chatbot](https://github.com/rodriguesgui/GuilermeQuadros-portfolio/assets/99698257/abed9db3-4d7e-4665-a364-d1e450b7b2df)
+![Chatbot](https://github.com/rodriguesgui/ChatBot-openai)
 
 📌 Chatbot criado com Python utilizando técnicas básicas de NLP para interações automatizadas.  
 🔗 [Notebook no GitHub](https://github.com/rodriguesgui/GuilermeQuadros-portfolio/blob/main/prj_Chatbot.ipynb)
