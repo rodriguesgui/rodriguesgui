@@ -1,38 +1,87 @@
-<h1 align="center">Hi 👋, I'm Guilherme</h1>
-<h3 align="center">
-Welcome to my data analysis portfolio. Here you will find projects with Machine Learning, Python, Power BI and PostgreSQL</h3>
-<h3 align="center"> Below my projects for Data Analysis </h3>
+<h1 align="center">👋 Olá, eu sou o Guilherme Rodrigues de Quadros</h1>
+<h3 align="center">Bem-vindo ao meu portfólio de Análise de Dados</h3>
 
+<p align="center">
+  Aqui você encontrará projetos com <strong>Python, Machine Learning, Power BI</strong> e <strong>PostgreSQL</strong>.
+</p>
 
-                                                          
-<h3 align="left"> PS4 Games Market Analysis </h3>
+---
 
-![sony-discontinues-ps4-pro-and-all-but-one-model-of-ps4-in-ja_rp79](https://github.com/rodriguesgui/GuilermeQuadros-portfolio/assets/99698257/4163e38b-dee4-44fe-af2e-2fe3507f2f04)
+## 📊 Projetos em Destaque
 
-To access the complete work, click [here](https://github.com/rodriguesgui/GuilermeQuadros-portfolio/blob/main/prj_Mercado_Games.ipynb)
+### 🎮 Análise do Mercado de Games (PS4)
 
-Data analysis work on the gaming market related to the PS4 console.
+![PS4](https://github.com/rodriguesgui/GuilermeQuadros-portfolio/assets/99698257/4163e38b-dee4-44fe-af2e-2fe3507f2f04)
 
-Python libraries were used for data analysis, treatment and visualization.
+📌 Análise completa do mercado de jogos do PS4 utilizando bibliotecas Python para limpeza, tratamento e visualização de dados.  
+🔗 [Notebook no GitHub](https://github.com/rodriguesgui/GuilermeQuadros-portfolio/blob/main/prj_Mercado_Games.ipynb)  
+📂 [Dataset no Kaggle](https://www.kaggle.com/datasets/sidtwr/videogames-sales-dataset?select=PS4_GamesSales.csv)
 
-Dataset taken from Kaggle, click [here](https://www.kaggle.com/datasets/sidtwr/videogames-sales-dataset?select=PS4_GamesSales.csv)
+---
 
+### 🧑‍💼 Dashboard de RH
 
+![Dashboard RH](https://github.com/rodriguesgui/GuilermeQuadros-portfolio/assets/99698257/4ecf0628-bd21-4f06-8973-13b6668106d7)
 
-<h3 align="left"> HR Dashboard </h3>
+📌 Dashboard em Power BI com indicadores de RH: admissões, demissões, diversidade e turnover.  
+🔗 [Visualizar no Power BI](https://app.powerbi.com/view?r=eyJrIjoiMDU5NTQ3MTMtNTcyYS00M2M1LWI0YmMtZDg3ZTAwMjk3YjE0IiwidCI6IjIwZGQyMjg5LWI5NDQtNDZjMi05NmRhLTU4NDhjMzUxOTlmYSJ9&pageName=ReportSection)  
+📂 [Dataset no Google Drive](https://drive.google.com/file/d/1h4bvZlHJUFAYJ5CbleAmLr6muAX1Q7rm/view)
 
-![Captura de tela 2023-07-24 081713](https://github.com/rodriguesgui/GuilermeQuadros-portfolio/assets/99698257/4ecf0628-bd21-4f06-8973-13b6668106d7)
+---
 
-To access the complete work, click [here](https://app.powerbi.com/view?r=eyJrIjoiMDU5NTQ3MTMtNTcyYS00M2M1LWI0YmMtZDg3ZTAwMjk3YjE0IiwidCI6IjIwZGQyMjg5LWI5NDQtNDZjMi05NmRhLTU4NDhjMzUxOTlmYSJ9&pageName=ReportSection)
+### 🏘️ Previsão de Preços - Airbnb *(em breve)*
 
-HR dashboard made for viewing data from company employees
+📌 Projeto de Ciência de Dados com modelagem preditiva para preços de aluguéis no Airbnb.
 
-Work done with cleaning, treatment in Power BI using DAX language for querie
+---
 
-Dataset taken from Google drive, click [here](https://drive.google.com/file/d/1h4bvZlHJUFAYJ5CbleAmLr6muAX1Q7rm/view)
+### 🤖 Chatbot com Python *(em breve)*
 
+📌 Chatbot criado com Python usando conceitos de NLP para respostas personalizadas.
 
+---
 
+## 🚀 Sobre mim
+
+- 📚 Atualmente aprendendo **Python para análise de dados, bancos de dados e visualização**
+- 📂 Todos os meus projetos estão aqui no GitHub: [@rodriguesgui](https://github.com/rodriguesgui)
+- 📫 Fala comigo por e-mail: **guilhermeddq@gmail.com**
+
+---
+
+## 🌐 Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermedequadros)  
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/guilhermerodri)
+
+---
+
+## 🛠️ Ferramentas e Tecnologias que uso
+
+**Linguagens de Programação e Análise**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+
+**Bibliotecas e Frameworks**  
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)  
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)  
+![Seaborn](https://img.shields.io/badge/-Seaborn-2D3E50?style=flat&logo=seaborn)  
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)  
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+
+**Business Intelligence & Visualização**  
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)  
+![CanvasJS](https://img.shields.io/badge/-CanvasJS-0F74D5?style=flat)
+
+**Banco de Dados**  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+
+**Outras Ferramentas**  
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)  
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)  
 
 
 
